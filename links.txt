@@ -1,0 +1,5 @@
+https://github.com/msotoodeh/curve25519
+
+https://github.com/openssl/openssl/blob/master/crypto/ec/curve25519.c
+
+gcc x3dh_test.c ed25519/src/*.c sha/rfc6234/*.c -o x3dh_verify
